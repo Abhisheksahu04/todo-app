@@ -1,5 +1,5 @@
 import { defineSchema, defineTable } from "convex/server";
-import { v } from "convex/values"
+import { v, Validator } from "convex/values"
 import { auth } from "../auth";
 
 // The users, accounts, sessions and verificationTokens tables are modeled
