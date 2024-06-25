@@ -1,5 +1,5 @@
 
-import Providers from "../Providers";
+import Providers from "../providers";
 import { auth } from "../../../auth";
 
 
